@@ -9,7 +9,7 @@ public class Student {
         this.roll=roll;
     }
     public void printStudent(){
-        System.out.println("Student Name: "+this.name+ " Roll Number : "+this.roll);
+        System.out.println("Student Name: "+this.name+ ", Roll Number : "+this.roll);
     }
     
 }
