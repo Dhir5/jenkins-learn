@@ -4,5 +4,8 @@ public class test{
         System.out.println("fsjo");
 
         System.out.println("Added one more line");
+        Student st=new Student();
+        st.data("Pooja", 111);
+        st.printStudent();
     }
 }
